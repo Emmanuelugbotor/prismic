@@ -1,20 +1,29 @@
 # The application
 
-## Available Scripts to start the app
+## Scripts to start the app
 
 
 In the project directory, you can run:
 
+### `npm install` 
 ### `npm run json_server`
+### `npm start`
+
+## uses of the scripts
+
+### `npm install`
+this command  is to install all dependencies
+
+### `npm run json_server`
+this command runs the in memory mock backend api using json-server
 
 Open [http://localhost:8080/data](http://localhost:8080/data) to view data it in the browser.
 Open [http://localhost:8080/rules](http://localhost:8080/rules) to view rules it in the browser.
-then run the react app
 
 ### `npm start`
-
-Runs the app in the development mode.\
+then run the react app using this command
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
 
 
 
