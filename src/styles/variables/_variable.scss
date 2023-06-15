@@ -1,0 +1,16 @@
+*,*::after,*::before{
+    padding:0;
+    margin: 0;
+    box-sizing: border-box;
+}
+a{
+    text-decoration: none;
+}
+ul{
+    list-style-type: none;
+}
+
+:root{
+    --primary:#c7ab62;
+    --color-name-product: #666666;
+}

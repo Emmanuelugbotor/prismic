@@ -1,0 +1,96 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "sku": "A",
+      "title": "Apple mobile",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 50,
+      "image": "https://i.dummyjson.com/data/products/1/1.jpg"
+    },
+    {
+      "id": 2,
+      "sku": "B",
+      "title": "SIM-Free, Model A19211",
+      "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
+      "price": 30,
+      "image": "https://i.dummyjson.com/data/products/2/1.jpg"
+    },
+    {
+      "id": 3,
+      "sku": "C",
+      "title": "Samsung's new varian",
+      "description": "Samsung's new variant which goes beyond Galaxy to the Universe",
+      "price": 20,
+      "image": "https://i.dummyjson.com/data/products/3/1.jpg"
+    },
+    {
+      "id": 4,
+      "sku": "D",
+      "title": "OPPO F19",
+      "description": "OPPO F19 is officially announced on April 2021.",
+      "price": 15,
+      "image": "https://i.dummyjson.com/data/products/4/1.jpg"
+    },
+    {
+      "id": 5,
+      "sku": "A",
+      "title": "Huawei’s re-badged",
+      "description": "Huawei’s re-badged P30 Pro New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK.",
+      "price": 50,
+      "image": "https://i.dummyjson.com/data/products/5/1.jpg"
+    },
+    {
+      "id": 6,
+      "sku": "B",
+      "title": "MacBook Pro 2021",
+      "description": "MacBook Pro 2021 with mini-LED display may launch between September, November",
+      "price": 30,
+      "image": "https://i.dummyjson.com/data/products/6/1.png"
+    },
+    {
+      "id": 7,
+      "sku": "C",
+      "title": "Samsung Galaxy Book",
+      "description": "Samsung Galaxy Book S (2020) Laptop With Intel Lakefield Chip, 8GB of RAM Launched",
+      "price": 50,
+      "image": "https://i.dummyjson.com/data/products/7/1.jpg"
+    },
+    {
+      "id": 8,
+      "sku": "D",
+      "title": "Microsoft Surface Laptop 4",
+      "description": "Style and speed. Stand  touchscreen.",
+      "price": 50,
+      "image": "https://i.dummyjson.com/data/products/8/1.jpg"
+    }
+  ],
+
+  
+  "rules": [
+    {
+      "item_sku": "A",
+      "rules": [
+        "3 for 130"
+      ],
+      "id": 1
+    },
+    {
+      "item_sku": "B",
+      "rules": [
+        "2 for 45"
+      ],
+      "id": 2
+    },
+    {
+      "item_sku": "C",
+      "rules": [],
+      "id": 3
+    },
+    {
+      "item_sku": "D",
+      "rules": [],
+      "id": 4
+    }
+  ]
+}

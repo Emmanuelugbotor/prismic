@@ -1,0 +1,10 @@
+@mixin flex($justify:stretch, $align:center) {
+display: flex;
+justify-content: $justify;
+align-items: $align;
+}
+@mixin DFlex($content:stretch, $items:stretch) {
+    display: flex;
+    justify-content: $content ;
+    align-items: $items;
+}
