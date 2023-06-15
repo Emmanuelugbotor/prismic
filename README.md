@@ -1,21 +1,24 @@
 # The application
 
-## Available Scripts
+## Available Scripts to start the app
+
 
 In the project directory, you can run:
+
+### `npm run json_server`
+
+Open [http://localhost:8080/data](http://localhost:8080/data) to view data it in the browser.
+Open [http://localhost:8080/rules](http://localhost:8080/rules) to view rules it in the browser.
+then run the react app
 
 ### `npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+
 
 # Goals
 
@@ -93,3 +96,13 @@ The UI should allow to manage the basket, available products and applied rules:
 
 Keep in mind that we will also evaluate the look and feel of the UI.
 
+
+
+## HOW TO RUN THE CODEBASE NOW
+start the mock api endpoints by running
+
+### `npm run json_server`
+
+then run the react app
+
+### `npm start`
